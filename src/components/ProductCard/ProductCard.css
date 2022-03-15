@@ -1,0 +1,11 @@
+.car-image {
+  width: 800px;
+}
+.card-active {
+  padding: 50px;
+  transition: 1s ease-out;
+  box-shadow: 1px 5px 15px grey;
+}
+.card {
+  padding: 50px;
+}
